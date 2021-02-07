@@ -1,5 +1,5 @@
 import { isTradeBetter } from 'utils/trades'
-import { Currency, CurrencyAmount, Pair, Token, Trade } from '@uniswap/sdk'
+import { Currency, CurrencyAmount, Pair, Token, Trade } from '@okexchain/uniswap-sdk'
 import flatMap from 'lodash.flatmap'
 import { useMemo } from 'react'
 
